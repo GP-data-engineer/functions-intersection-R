@@ -31,12 +31,13 @@ The script searches for the intersection point, displays the result, and plots b
 Console output:
 
 The graphs of the functions intersect at the point with coordinates:
-X = 15.1543
-Y = 1839.1
-Position in table = 276
+(x)=26.09349      f(x)=5446.96100      g(x)=5446.96100 
+
+**Performance note:**  
+The array-comparison implementation completes in under 0.5 seconds of system runtime,  
+while the `for`‑loop implementation takes over 5 seconds.
 
 Example plots:
-
 - **Plot 1**: Full view of both functions with labels  
 - **Plot 2**: Zoomed-in view showing the exact intersection point with gridlines  
 
