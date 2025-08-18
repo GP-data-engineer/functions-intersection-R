@@ -1,5 +1,5 @@
 # functions-intersection-R
-This package provides a set of R scripts to visualize and analyze the intersection points of two mathematical functions. The program incrementally evaluates function values, identifies intersections, and generates detailed plots highlighting the intersection points. It also outputs a table of computed values and stores them in a text file.
+This package contains a collection of R scripts designed to compare the execution time of differently implemented programs that perform the same task: finding the intersection point(s) of two mathematical functions. Each implementation calculates function values, detects intersection points, and measures runtime performance. The scripts also generate visual plots marking the intersections, produce a results table, and export the computed data to a text file.
 
 # Functions Intersection in R
 
