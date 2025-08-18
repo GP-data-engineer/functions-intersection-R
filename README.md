@@ -21,8 +21,8 @@ The script searches for the intersection point, displays the result, and plots b
 - Iterative search for the intersection using `while` loops  
 - Precise calculation of the intersection coordinates (X, Y)  
 - Two plots generated:
-  - Full function plots
-  - Zoomed-in plot with highlighted intersection point  
+ - **Plot 1**: Full view of both functions with labels  
+ - **Plot 2**: Zoomed-in view showing the exact intersection point with gridlines  
 - Export of calculated values into a `.txt` file  
 
 ---
@@ -36,10 +36,6 @@ The graphs of the functions intersect at the point with coordinates:
 **Performance note:**  
 The array-comparison implementation completes in under 0.5 seconds of system runtime,  
 while the `for`‑loop implementation takes over 5 seconds.
-
-Example plots:
-- **Plot 1**: Full view of both functions with labels  
-- **Plot 2**: Zoomed-in view showing the exact intersection point with gridlines  
 
 ---
 
