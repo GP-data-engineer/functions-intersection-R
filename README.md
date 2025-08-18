@@ -21,8 +21,8 @@ The script searches for the intersection point, displays the result, and plots b
 - Iterative search for the intersection using `while` loops  
 - Precise calculation of the intersection coordinates (X, Y)  
 - Two plots generated:
- - **Plot 1**: Full view of both functions with labels  
- - **Plot 2**: Zoomed-in view showing the exact intersection point with gridlines  
+  **Plot 1**: Full view of both functions with labels  
+  **Plot 2**: Zoomed-in view showing the exact intersection point with gridlines  
 - Export of calculated values into a `.txt` file  
 
 ---
