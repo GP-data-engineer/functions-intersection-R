@@ -75,3 +75,4 @@ cat(" The graphs of the functions intersect at the point with coordinates:\n","P
 print(tab1[p10,])
 write.table(tab10, "c:/Download/R/sortowanie/tab10.txt", quote=FALSE)
 })
+
