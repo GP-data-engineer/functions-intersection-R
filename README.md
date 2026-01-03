@@ -1,7 +1,7 @@
-# functions-intersection-R
+# functions-intersection-R code
 This package contains a collection of R scripts designed to compare the execution time of differently implemented programs that perform the same task: finding the intersection point(s) of two mathematical functions. Each implementation calculates function values, detects intersection points, and measures runtime performance. The scripts also generate visual plots marking the intersections, produce a results table, and export the computed data to a text file.
 
-# Functions Intersection in R
+# Functions Intersection in R code
 This package contains a collection of R scripts designed to compare the execution time of differently implemented programs that perform the same task: finding the intersection point(s) of two mathematical functions.  
 One implementation searches for intersections by **comparing arrays** and returning the rows with matching values.  
 The other finds the intersection point using a **simple `for` loop**.  
